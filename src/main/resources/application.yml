@@ -1,0 +1,10 @@
+server:
+  port: 22222
+
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://172.16.3.206:15400/postgres
+    username: gaussdb
+    password: k18k18!@#
+    platform: postgres
