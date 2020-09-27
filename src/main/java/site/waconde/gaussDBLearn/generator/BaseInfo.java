@@ -1,4 +1,4 @@
-package site.waconde.springTest.entity;
+package site.waconde.gaussDBLearn.generator;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.Data;

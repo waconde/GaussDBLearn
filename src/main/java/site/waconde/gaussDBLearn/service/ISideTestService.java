@@ -1,6 +1,6 @@
-package site.waconde.springTest.service;
+package site.waconde.gaussDBLearn.service;
 
-import site.waconde.springTest.entity.SideTest;
+import site.waconde.gaussDBLearn.entity.SideTest;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

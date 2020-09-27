@@ -1,8 +1,8 @@
-package site.waconde.springTest.service.impl;
+package site.waconde.gaussDBLearn.service.impl;
 
-import site.waconde.springTest.entity.SideTest;
-import site.waconde.springTest.mapper.SideTestMapper;
-import site.waconde.springTest.service.ISideTestService;
+import site.waconde.gaussDBLearn.entity.SideTest;
+import site.waconde.gaussDBLearn.mapper.SideTestMapper;
+import site.waconde.gaussDBLearn.service.ISideTestService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

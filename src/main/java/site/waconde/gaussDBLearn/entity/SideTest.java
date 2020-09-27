@@ -1,4 +1,4 @@
-package site.waconde.springTest.entity;
+package site.waconde.gaussDBLearn.entity;
 
 import java.io.Serializable;
 

@@ -1,11 +1,11 @@
-package site.waconde.springTest.controller;
+package site.waconde.gaussDBLearn.controller;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import site.waconde.springTest.entity.SideTest;
-import site.waconde.springTest.service.ISideTestService;
+import site.waconde.gaussDBLearn.entity.SideTest;
+import site.waconde.gaussDBLearn.service.ISideTestService;
 
 /**
  * <p>

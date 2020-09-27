@@ -1,13 +1,10 @@
-package site.waconde.springTest.generator;
+package site.waconde.gaussDBLearn.entity;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import lombok.Builder;
 import lombok.Data;
 import lombok.ToString;
-import org.springframework.format.annotation.DateTimeFormat;
 
 import java.io.Serializable;
-import java.time.LocalDateTime;
 import java.util.Date;
 
 /**

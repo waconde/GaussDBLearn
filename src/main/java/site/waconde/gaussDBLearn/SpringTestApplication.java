@@ -1,11 +1,11 @@
-package site.waconde.springTest;
+package site.waconde.gaussDBLearn;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@MapperScan("site.waconde.springTest.mapper")
+@MapperScan("site.waconde.gaussDBLearn.mapper")
 public class SpringTestApplication {
 
 	public static void main(String[] args) {

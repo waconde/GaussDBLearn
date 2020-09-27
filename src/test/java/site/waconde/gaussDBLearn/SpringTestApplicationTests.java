@@ -1,4 +1,4 @@
-package site.waconde.springTest;
+package site.waconde.gaussDBLearn;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

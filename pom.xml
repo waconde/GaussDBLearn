@@ -11,7 +11,7 @@
 	<groupId>site.waconde</groupId>
 	<artifactId>test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringTest</name>
+	<name>GaussDBLearn</name>
 	<description>Test project for Spring Boot</description>
 
 	<properties>

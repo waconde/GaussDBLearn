@@ -1,6 +1,6 @@
-package site.waconde.springTest.mapper;
+package site.waconde.gaussDBLearn.mapper;
 
-import site.waconde.springTest.entity.SideTest;
+import site.waconde.gaussDBLearn.entity.SideTest;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**
